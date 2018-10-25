@@ -24,7 +24,7 @@ warehouse notes
 ------------
 第十五章:[数据仓库和技术](https://github.com/zzhangyuhang/warehouse-notes/blob/master/9.数据仓库和技术.md)
 ------------
-第十六章:[数据仓库和ODS]()
+第十六章:[数据仓库和ODS](https://github.com/zzhangyuhang/warehouse-notes/blob/master/11.数据仓库和ODS.md)
 --------------
 第十九章:[数据仓库设计的复查要目]()
 -----------
