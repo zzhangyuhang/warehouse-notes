@@ -4,6 +4,8 @@ warehouse notes
 
 目录:
 ============================
+读后感想:[20181025](https://github.com/zzhangyuhang/warehouse-notes/blob/master/读后感想.md)
+-------------
 第二章:[数据仓库环境](https://github.com/zzhangyuhang/warehouse-notes/blob/master/1.数据仓库环境.md)
 ------------------------------
 第三章:[设计数据仓库](https://github.com/zzhangyuhang/warehouse-notes/blob/master/2.设计数据仓库.md)
