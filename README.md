@@ -20,7 +20,7 @@ warehouse notes
 -------------
 第十三章:[关系模型和多位模型型数据库设计基础](https://github.com/zzhangyuhang/warehouse-notes/blob/master/8.关系模型和多维模型.md)
 -------------
-第十四章:[数据仓库高级话题]()
+第十四章:[数据仓库高级话题](https://github.com/zzhangyuhang/warehouse-notes/blob/master/10.关数据仓库高级话题.md)
 ------------
 第十五章:[数据仓库和技术](https://github.com/zzhangyuhang/warehouse-notes/blob/master/9.数据仓库和技术.md)
 ------------
